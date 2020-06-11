@@ -1,3 +1,3 @@
 # Readme
 
-Investigacion hacerca de bases de datos
+Investigacion sobre bases de datos
