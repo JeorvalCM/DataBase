@@ -16,3 +16,6 @@ regardless of which columns you require. Let’s say you only want a list of bir
 in September. The database will scan the table from top to bottom and left to right, 
 as shown in figure 3, eventually returning the list of birthdays.
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3NTcwNzM3NDRdfQ==
+-->
