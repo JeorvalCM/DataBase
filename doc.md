@@ -1,7 +1,6 @@
 COLUMN-ORIENTED DATABASE
 
-Traditional relational databases are row-oriented, with each row having a row-id and each field within the row stored together in a table. =
-
+Traditional relational databases are row-oriented, with each row having a row-id and each field within the row stored together in a table. 
 Every time you look something up in a row-oriented database, every row is scanned, regardless of which columns you require. 
 |  |column-oriented databases  |
 |--|--|
@@ -13,6 +12,6 @@ References
 
 [dbbest](https://www.dbbest.com/blog/column-oriented-database-technologies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0MTU5OTE5LC0xODEwNzA0NjU1LC01Mz
-U4Njg5ODNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzE2NTg4NCwtMTgxMDcwNDY1NSwtNT
+M1ODY4OTgzXX0=
 -->
