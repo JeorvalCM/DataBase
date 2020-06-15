@@ -1,6 +1,6 @@
 COLUMN-ORIENTED DATABASE
 
-Traditional relational databases are row-oriented, with each row having a row-id and each field within the row stored together in a table. Let’s say, for example’s  sake, that no extra data about hobbies is stored and you have only a single table to  describe people, as shown in figure 6.8. Notice how in this scenario you have slight denormalization because hobbies could be repeated. If the hobby information is a nice extra but not essential to your use case, adding it as a list within the Hobbies column is an acceptable approach. But if the information isn’t important enough for a separate table, should it be stored at all?
+Traditional relational databases are row-oriented, with each row having a row-id and each field within the row stored together in a table. =
 
 Every time you look something up in a row-oriented database, every row is scanned, regardless of which columns you require. 
 |  |column-oriented databases  |
@@ -13,7 +13,7 @@ References
 
 [dbbest](https://www.dbbest.com/blog/column-oriented-database-technologies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDUwMTY3LC0xODEwNzA0NjU1LC01Mz
+eyJoaXN0b3J5IjpbNzY0MTU5OTE5LC0xODEwNzA0NjU1LC01Mz
 U4Njg5ODMsLTMyNTQ5Njk0NCw4ODYzNzkzMDgsMTYwMzEyMjQ4
 MCwxNjAzMTIyNDgwXX0=
 -->
