@@ -9,7 +9,8 @@ Every time you look something up in a row-oriented database, every row is scanne
 |--|--|
 | Benefits | High performance on aggregation queries (like COUNT, SUM, AVG, MIN, MAX) <br> Highly efficient data compression and/or partitioning<br>True scalability and fast data loading for Big Data<br>Accessible by many 3rd  party BI analytic tools <br> Fairly simple systems administration
 | advantages for certain types of systems|Data Warehouses and Business Intelligence<br>Customer Relationship Management (CRM)<br>Library Card Catalogs<br>Ad hoc query systems
-||
+|Disadvantages|Transactions are to be avoided or just not supported<br>Queries with table joins can reduce high performance<br> Record updates and deletes reduce storage efficiency<br> Effective partitioning/indexing schemes can be difficult to design
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA3MDQ2NTUsLTUzNTg2ODk4M119
+eyJoaXN0b3J5IjpbMjEwNDExNzE3NSwtMTgxMDcwNDY1NSwtNT
+M1ODY4OTgzXX0=
 -->
