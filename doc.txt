@@ -7,10 +7,11 @@ Traditional relational databases are row-oriented, with each row having a row-id
 Every time you look something up in a row-oriented database, every row is scanned, regardless of which columns you require. Let’s say you only want a list of birthdays in September. The database will scan the table from top to bottom and left to right, as shown in figure 3, eventually returning the list of birthdays.
 |  |  |
 |--|--|
-| Benefits | High performance on aggregation queries (like COUNT, SUM, AVG, MIN, MAX) <br> Highly efficient data compression and/or partitioning<br>True scalability and fast data loading for Big Data<br>Accessible by many 3rd  party BI analytic tools <br>
-Fairly simple systems administration
-|d|Hola
+| Benefits | High performance on aggregation queries (like COUNT, SUM, AVG, MIN, MAX) <br> Highly efficient data compression and/or partitioning<br>True scalability and fast data loading for Big Data<br>Accessible by many 3rd  party BI analytic tools <br> Fairly simple systems administration
+|d|
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDM2NTI5Niw4ODYzNzkzMDgsMTYwMz
+eyJoaXN0b3J5IjpbLTMyNTQ5Njk0NCw4ODYzNzkzMDgsMTYwMz
 EyMjQ4MCwxNjAzMTIyNDgwXX0=
 -->
