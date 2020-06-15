@@ -8,10 +8,9 @@ Every time you look something up in a row-oriented database, every row is scanne
 |  |  |
 |--|--|
 | Benefits | High performance on aggregation queries (like COUNT, SUM, AVG, MIN, MAX) <br> Highly efficient data compression and/or partitioning<br>True scalability and fast data loading for Big Data<br>Accessible by many 3rd  party BI analytic tools <br> Fairly simple systems administration
-|d|
-
- 
+|column-oriented databases offer key advantages for certain types of systems|Data Warehouses and Business Intelligence<br>Customer Relationship Management (CRM)<br>Library Card Catalogs<br>Ad hoc query systems
+||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTQ5Njk0NCw4ODYzNzkzMDgsMTYwMz
-EyMjQ4MCwxNjAzMTIyNDgwXX0=
+eyJoaXN0b3J5IjpbLTUzNTg2ODk4MywtMzI1NDk2OTQ0LDg4Nj
+M3OTMwOCwxNjAzMTIyNDgwLDE2MDMxMjI0ODBdfQ==
 -->
