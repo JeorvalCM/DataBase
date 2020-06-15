@@ -7,12 +7,12 @@ Every time you look something up in a row-oriented database, every row is scanne
 | Benefits | High performance on aggregation queries (like COUNT, SUM, AVG, MIN, MAX) <br> Highly efficient data compression and/or partitioning<br>True scalability and fast data loading for Big Data<br>Accessible by many 3rd  party BI analytic tools <br> Fairly simple systems administration
 | advantages for certain types of systems|Data Warehouses and Business Intelligence<br>Customer Relationship Management (CRM)<br>Library Card Catalogs<br>Ad hoc query systems
 |Disadvantages|Transactions are to be avoided or just not supported<br>Queries with table joins can reduce high performance<br> Record updates and deletes reduce storage efficiency<br> Effective partitioning/indexing schemes can be difficult to design
-|DB|[SAP Sybase IQ](https://www.sap.com/index.html)<br>[Infobright](http://www.ignitetech.com/solutions/information-technology/infobrightdb)<br>[Vertica (HP)](https://www.vertica.com/)<br>[ParAccel](https://www.actian.com/)
+|DB|[SAP Sybase IQ](https://www.sap.com/index.html)<br>[Infobright](http://www.ignitetech.com/solutions/information-technology/infobrightdb)<br>[Vertica (HP)](https://www.vertica.com/)<br>[ParAccel](https://www.actian.com/)<br>[Microsoft SQL Server](https://www.microsoft.com/)
 References
 [dzone](https://dzone.com/articles/nosql-database-types-1#:~:text=There%20are%20four%20big%20NoSQL,are%20often%20combinations%20of%20these.)
 
 [dbbest](https://www.dbbest.com/blog/column-oriented-database-technologies/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzQzNjQ4NiwtMjA3MTY1ODg0LC0xOD
-EwNzA0NjU1LC01MzU4Njg5ODNdfQ==
+eyJoaXN0b3J5IjpbODk3NDkxOTA0LC0yMDcxNjU4ODQsLTE4MT
+A3MDQ2NTUsLTUzNTg2ODk4M119
 -->
